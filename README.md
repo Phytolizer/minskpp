@@ -1,2 +1,2 @@
-# My CMake template
-Used in my new projects.
+# minskpp
+Have you considered Minsk?
